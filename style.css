@@ -54,6 +54,10 @@ button:hover {
     filter: brightness(1.4);
 }
 
+span {
+    min-width: 14px;
+}
+
 .correct {
     color: green;
 }
